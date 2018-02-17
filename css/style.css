@@ -16,9 +16,11 @@
 
 img {
 	max-width:100%;
-	border: 5px #98ADA6 solid;
 }
 
+#main {
+	border: 5px #98ADA6 solid;
+}
 
 /*/////////// Headers /////////////*/
 h1 {
